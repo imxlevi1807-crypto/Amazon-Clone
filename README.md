@@ -1,0 +1,3 @@
+- An amazon landing page clone
+- Using only HTML CSS 
+- Very first project so it may not be perfect but will continue to learn and improve along the way 
