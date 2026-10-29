@@ -1,0 +1,2 @@
+'use strict';mix_d("AmazonHomepageIndependentCards__single-video-card:single-video-card__g8QknMC7/es3","exports tslib @c/scoped-dom ./es3@client @c/tracking @c/logger @p/videojs @c/dom @p/gw-video-orchestrator @c/metrics @c/navigation @c/pagemarker @p/jQuery".split(" "),function(a,c,d,b,e,f,g,h,k,l,m,n,p){a._operationNames=b._operationNames;a.card=b.card;a.handleTextTracks=b.handleTextTracks;a.positionCaptionsAboveLegalLine=b.positionCaptionsAboveLegalLine;a.resetVideoCardTrackingFlag=
+b.resetVideoCardTrackingFlag});
