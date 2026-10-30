@@ -2,7 +2,6 @@
     margin: 0;
     font-family: Arial;
     border-sizing: border-box;
-
 }
 
 /* Navbar */
@@ -13,6 +12,7 @@
     display: flex;
     align-items: center;
     justify-content: space-evenly;
+    cursor: pointer;
 }
 
 
@@ -55,7 +55,7 @@
 /*** Box-3 **/
 .nav-search-bar {
     display: flex;
-    width: 800px;
+    flex:0.8;
     height: 40px;
     border-radius: 4px;
     justify-content: space-evenly;
@@ -130,4 +130,30 @@ padding-left: 15px;
 .Cart {
     font-size: 1rem;
     padding-top: 5px;
+}
+
+.panel {
+    height: 40px;
+    background-color: #232f3e;
+    display: flex;
+    color: white;
+    align-items: center;
+}
+
+.panel-options {
+    display:flex;
+    font-size: 0.85em;
+    margin-left: 5px;
+    justify-content: space-evenly;
+}
+
+.panel-all {
+    margin-left:15px;
+    font-size: 1.00rem;
+    font-weight: 600;
+}
+
+.panel-options p {
+    margin-left: 15px;
+    font-weight: 500;
 }
